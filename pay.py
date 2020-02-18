@@ -1,7 +1,6 @@
 pay=1
 
-pay2=2
+pay=2
 
-pay3=3
+pay=3
 
-over
